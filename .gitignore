@@ -21,3 +21,7 @@ yarn-error.log*
 
 # Misc
 .DS_Store
+
+include.ts
+
+out
