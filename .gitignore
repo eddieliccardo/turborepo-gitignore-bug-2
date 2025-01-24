@@ -23,5 +23,6 @@ yarn-error.log*
 .DS_Store
 
 include.ts
+!apps/app-a/test-gitignore/include.ts
 
 out
